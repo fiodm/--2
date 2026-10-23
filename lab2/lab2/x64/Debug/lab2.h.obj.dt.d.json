@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ctrel\\onedrive\\робочий стіл\\ooп\\lab2\\lab2\\lab2.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\ctrel\\onedrive\\робочий стіл\\ooп\\lab2\\lab2\\resource.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
